@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disaster Tweet Classification</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Disaster Tweet Classification</h1>
+        <form action="/predict" method="POST">
+            <label for="tweet">Enter Tweet:</label><br>
+            <textarea id="tweet" name="tweet" rows="4" cols="50" required></textarea><br><br>
+            <input type="submit" value="Classify">
+        </form>
+        {% if tweet and prediction %}
+            <div class="result">
+                <h2>Tweet:</h2>
+                <p>{{ tweet }}</p>
+                <h2>Classification Result:</h2>
+                <p>{{ prediction }}</p>
+            </div>
+        {% endif %}
+    </div>
+</body>
+</html>
