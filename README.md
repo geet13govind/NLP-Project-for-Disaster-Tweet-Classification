@@ -88,6 +88,7 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 ![Uploading IMG-20241113-WA0000.jpg…]()
 
+![IMG-20241113-WA0001](https://github.com/user-attachments/assets/97ed5ae9-2242-4087-80db-c487cefc7d51)
 
 "Having a great day at the beach":-	            Non-Disaster
 
