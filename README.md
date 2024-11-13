@@ -86,6 +86,9 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 "Earthquake shaking California!":-	              Disaster
 
+![Uploading IMG-20241113-WA0000.jpg…]()
+
+
 "Having a great day at the beach":-	            Non-Disaster
 
 ## Future Improvements
