@@ -84,6 +84,23 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 ####     Tweet Text	           &                Prediction
 
-"Earthquake shaking California!"	              Disaster
+"Earthquake shaking California!":-	              Disaster
 
-"Having a great day at the beach"	            Non-Disaster
+"Having a great day at the beach":-	            Non-Disaster
+
+## Future Improvements
+
+* Enhanced Visualizations: Add real-time visualizations of disaster distribution based on tweet content.
+
+* Geolocation Analysis: Extract and use geolocation data for more region-specific alerts.
+
+* Real-Time Updates: Integrate Twitter API for live tweet tracking and classification.
+
+## Acknowledgments
+
+* NLTK & TextBlob for sentiment analysis tools.
+
+* GloVe embeddings for semantic-rich text representations.
+
+* Scikit-Learn & Flask for enabling seamless ML model deployment.
+
