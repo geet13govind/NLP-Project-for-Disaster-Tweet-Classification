@@ -75,3 +75,15 @@ glove = gensim_api.load("glove-twitter-100")
 python app.py
 #### 2. Open your browser
 and go to http://127.0.0.1:5000 to access the app.
+
+## Results & Performance
+
+The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and recall, making it ideal for detecting disaster-related tweets efficiently. Integrating sentiment features further boosted model performance, enabling accurate and prompt detection of urgent tweets.
+
+### Example Predictions:
+
+####     Tweet Text	                           Prediction
+
+"Earthquake shaking California!"	              Disaster
+
+"Having a great day at the beach"	            Non-Disaster
