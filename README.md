@@ -82,7 +82,7 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 ### Example Predictions:
 
-####     Tweet Text	                           Prediction
+####     Tweet Text	           &                Prediction
 
 "Earthquake shaking California!"	              Disaster
 
