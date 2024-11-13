@@ -82,15 +82,9 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 ### Example Predictions:
 
-####     Tweet Text	           &                Prediction
+![IMG-20241113-WA0000](https://github.com/user-attachments/assets/016bf29f-4f8f-4ff7-b235-5a3054e7db56) ![IMG-20241113-WA0001](https://github.com/user-attachments/assets/bc60a8f1-f6d0-416e-873b-179508fcb12d)
 
-"Earthquake shaking California!":-	              Disaster
 
-![Uploading IMG-20241113-WA0000.jpg…]()
-
-![IMG-20241113-WA0001](https://github.com/user-attachments/assets/97ed5ae9-2242-4087-80db-c487cefc7d51)
-
-"Having a great day at the beach":-	            Non-Disaster
 
 ## Future Improvements
 
