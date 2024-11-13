@@ -82,9 +82,7 @@ The selected Gaussian Naive Bayes model yielded a strong balance of accuracy and
 
 ### Example Predictions:
 
-![IMG-20241113-WA0000](https://github.com/user-attachments/assets/016bf29f-4f8f-4ff7-b235-5a3054e7db56) ![IMG-20241113-WA0001](https://github.com/user-attachments/assets/bc60a8f1-f6d0-416e-873b-179508fcb12d)
-
-
+![IMG-20241113-WA0001](https://github.com/user-attachments/assets/696929fa-cd6b-4e64-b821-4c3bc58994b0) ![IMG-20241113-WA0000](https://github.com/user-attachments/assets/c8242abe-5106-4c4e-8904-f527564bbab4)
 
 ## Future Improvements
 
